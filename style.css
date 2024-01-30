@@ -1,0 +1,79 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    background-color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 400px;
+    height: 100%;
+    width: 100%;
+}
+
+.image1{
+    
+     background-image: url(images/image1.png);
+     height: 100vh; 
+
+     position: relative;
+     background-position: center;
+     background-size: cover; 
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+
+}
+
+.image2{
+
+    background-image: url(images/image2.png);
+    height: 100vh; 
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.image3{
+
+    background-image: url(images/image3.png);
+    height: 100vh; 
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.text{
+        position :absolute;
+        top: 50%;
+        left: 36%;
+        background-color:none   ;
+        font-size: 40px;
+        padding: 10px;
+}
+
+.textBg{
+
+    background: #313535;
+    color: white;
+    padding: 10px;
+}
+
+.section{
+
+    text-align: center;
+    padding: 50px 80px;
+}
+
+.third{
+
+    position: relative;
+    left: 30%;
+    
+}
+
+
+
